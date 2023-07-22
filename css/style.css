@@ -198,8 +198,11 @@ th {
 .w-icon-slider-left:before {
     content: "<";
 }
+.w-icon-nav-menu {
+    font-size: 36px;
+}
 .w-icon-nav-menu:before {
-    content: "î˜‚";
+    content: "☰";
 }
 .w-icon-arrow-down:before,
 .w-icon-dropdown-toggle:before {
